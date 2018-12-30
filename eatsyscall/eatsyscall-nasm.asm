@@ -2,7 +2,7 @@
 ; Version         : 1.0
 ; Created date    : 3 jun 2013
 ; Last update     : 3 jun 2013
-; Author          : Peter Huybrechts
+; Author          : Líff Huybrechts
 ; Description     : A simple assembly app for Linux, using NASM
 ;                   demonstrating the use of Linux INT 80H 
 ;                   syscalls to display text.
