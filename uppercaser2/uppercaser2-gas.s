@@ -2,7 +2,7 @@
 # Version         : 1.0
 # Created date    : 30 jun 2013
 # Last update     : 30 jun 2013
-# Author          : Peter Huybrechts
+# Author          : Líff Huybrechts
 # Description     : 
 #                    
 #                   
