@@ -2,7 +2,7 @@
 ; Version         : 1.0
 ; Created date    : 30 jun 2013
 ; Last update     : 30 jun 2013
-; Author          : Peter Huybrechts
+; Author          : Líff Huybrechts
 ; Description     : A simple program in assembly for Linux, using NASM,
 ;                   Demonstrating simple text file I/O (through redirection)
 ;                   for reading an input file to a buffer in blocks, forcing
